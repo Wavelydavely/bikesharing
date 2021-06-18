@@ -32,4 +32,4 @@ There is a high-level summary of the results and two additional visualizations a
 
 [link to dashboard](LINK GOES HERE "link to dashboard")
 
-https://public.tableau.com/app/profile/david.coyle/viz/Mod14Challenge_16238869752270/Sheet1
+https://public.tableau.com/app/profile/david.coyle/viz/Mod14Challenge_16238869752270/DeMoinesCitiBikeInvestorPitch
